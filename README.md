@@ -10,6 +10,6 @@ Dataset: SampleSuperstore.csv
 
 Dataset: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
-Complete Video Link: YouTube:
+Complete Video Link: YouTube: https://youtu.be/TloHgXdauEs
 
 By- S.Subiksha
